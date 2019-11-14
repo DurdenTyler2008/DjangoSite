@@ -1,0 +1,2 @@
+# DjangoSite
+training Django
